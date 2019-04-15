@@ -1,5 +1,5 @@
 
-public class FourKitesQuestion2 {
+public class FKQuestion2 {
 
 	public static void main(String[] args) {
 		
